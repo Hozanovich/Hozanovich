@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hozanovich
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in cyber security
+- I’m currently learning programming
+- 📫 https://www.linkedin.com/in/hozan-hasan-yaşar-783781239
 
 <!---
 Hozanovich/Hozanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
